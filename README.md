@@ -1,7 +1,8 @@
-# justjava-help
+# justjava-help for Udacity Android Basics course
 
 
-## It is an Udacity Android Basics practice for help.
+## It is a starter code for practice. I hope it helps you guys.
 I couldn't find my original starting code, so I decided to build a stable version. I hope it helps and you can continue your study.
 
-![GitHub Logo](/Screenshot.png)
+
+<img src="/Screenshot.png" width="200" height="400" />
