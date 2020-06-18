@@ -1,5 +1,7 @@
 # justjava-help for Udacity Android Basics course
 
+![badgeeee](https://buildstats.info/github/chart/laszlolajost/justjava-help)
+
 
 ## It is a starter code for practice. I hope it helps you guys.
 I couldn't find my original starting code, so I decided to build a stable version. I hope it helps and you can continue your study.
