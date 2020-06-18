@@ -1,5 +1,8 @@
 # justjava-help for Udacity Android Basics course
 
+[![Code Grade](https://www.code-inspector.com/project/9768/score/svg)](https://www.code-inspector.com)
+[![Code Grade](https://www.code-inspector.com/project/9768/status/svg)](https://www.code-inspector.com)
+
 [![Github All Releases](https://img.shields.io/github/downloads/laszlolajost/justjava-help/total.svg)]() [![Github All Releases](https://img.shields.io/github/downloads/laszlolajost/justjava-help/total.svg)]()
 
 
