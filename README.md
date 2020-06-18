@@ -1,7 +1,13 @@
 # justjava-help for Udacity Android Basics course
 
+![Android CI](https://github.com/LaszloLajosT/justjava-help/workflows/Android%20CI/badge.svg)
+![Java CI with Gradle](https://github.com/LaszloLajosT/justjava-help/workflows/Java%20CI%20with%20Gradle/badge.svg)
+
 [![Code Grade](https://www.code-inspector.com/project/9768/score/svg)](https://www.code-inspector.com)
 [![Code Grade](https://www.code-inspector.com/project/9768/status/svg)](https://www.code-inspector.com)
+
+[![Actions Status](https://github.com/laszlolajost/justjava-help/workflows/gradle/badge.svg)](https://github.com/laszlolajost/justjava-help/actions)
+[![Actions Status](https://github.com/RobDWaller/csp-generator/workflows/Build%20and%20Test/badge.svg)](https://github.com/RobDWaller/csp-generator/actions)
 
 [![Github All Releases](https://img.shields.io/github/downloads/laszlolajost/justjava-help/total.svg)]() [![Github All Releases](https://img.shields.io/github/downloads/laszlolajost/justjava-help/total.svg)]()
 
